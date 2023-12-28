@@ -10,8 +10,8 @@ const Card = () => {
             <div className='footer absolute bottom-0 w-full px-8 py-3 left-0'>
                 <div className='flex items-center justify-between mb-5'>
                     <h5>.4mb</h5>
-                    <span className='w-5 h-5 bg-sky-200 rounded-full flex items-center justify-center'>
-                        <LuDownload />
+                    <span className='w-7 h-7 bg-zinc-600 rounded-full flex items-center justify-center'>
+                        <LuDownload size=".7em" color='#fff' />
                     </span>
                 </div>
             </div>
